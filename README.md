@@ -1,6 +1,6 @@
 # 💰 CryptoPrice
 
-A sleek and simple web application that shows real-time cryptocurrency prices using public APIs. Built using the MERN stack.
+A sleek and simple web application that shows real-time cryptocurrency prices using public APIs. 
 
 ## 🛠 Tech Stack
 
